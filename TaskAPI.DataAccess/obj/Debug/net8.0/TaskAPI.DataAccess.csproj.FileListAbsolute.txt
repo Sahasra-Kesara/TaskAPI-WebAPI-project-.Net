@@ -1,0 +1,17 @@
+D:\StackNet Projects\dotnetpractice\Fiqri\TaskAPI\TaskAPI.DataAccess\bin\Debug\net8.0\TaskAPI.DataAccess.deps.json
+D:\StackNet Projects\dotnetpractice\Fiqri\TaskAPI\TaskAPI.DataAccess\bin\Debug\net8.0\TaskAPI.DataAccess.runtimeconfig.json
+D:\StackNet Projects\dotnetpractice\Fiqri\TaskAPI\TaskAPI.DataAccess\bin\Debug\net8.0\TaskAPI.DataAccess.dll
+D:\StackNet Projects\dotnetpractice\Fiqri\TaskAPI\TaskAPI.DataAccess\bin\Debug\net8.0\TaskAPI.DataAccess.pdb
+D:\StackNet Projects\dotnetpractice\Fiqri\TaskAPI\TaskAPI.DataAccess\bin\Debug\net8.0\TaskAPI.Models.dll
+D:\StackNet Projects\dotnetpractice\Fiqri\TaskAPI\TaskAPI.DataAccess\bin\Debug\net8.0\TaskAPI.Models.pdb
+D:\StackNet Projects\dotnetpractice\Fiqri\TaskAPI\TaskAPI.DataAccess\obj\Debug\net8.0\TaskAPI.DataAccess.csproj.AssemblyReference.cache
+D:\StackNet Projects\dotnetpractice\Fiqri\TaskAPI\TaskAPI.DataAccess\obj\Debug\net8.0\TaskAPI.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\StackNet Projects\dotnetpractice\Fiqri\TaskAPI\TaskAPI.DataAccess\obj\Debug\net8.0\TaskAPI.DataAccess.AssemblyInfoInputs.cache
+D:\StackNet Projects\dotnetpractice\Fiqri\TaskAPI\TaskAPI.DataAccess\obj\Debug\net8.0\TaskAPI.DataAccess.AssemblyInfo.cs
+D:\StackNet Projects\dotnetpractice\Fiqri\TaskAPI\TaskAPI.DataAccess\obj\Debug\net8.0\TaskAPI.DataAccess.csproj.CoreCompileInputs.cache
+D:\StackNet Projects\dotnetpractice\Fiqri\TaskAPI\TaskAPI.DataAccess\obj\Debug\net8.0\TaskAPI..291C93E7.Up2Date
+D:\StackNet Projects\dotnetpractice\Fiqri\TaskAPI\TaskAPI.DataAccess\obj\Debug\net8.0\TaskAPI.DataAccess.dll
+D:\StackNet Projects\dotnetpractice\Fiqri\TaskAPI\TaskAPI.DataAccess\obj\Debug\net8.0\refint\TaskAPI.DataAccess.dll
+D:\StackNet Projects\dotnetpractice\Fiqri\TaskAPI\TaskAPI.DataAccess\obj\Debug\net8.0\TaskAPI.DataAccess.pdb
+D:\StackNet Projects\dotnetpractice\Fiqri\TaskAPI\TaskAPI.DataAccess\obj\Debug\net8.0\TaskAPI.DataAccess.genruntimeconfig.cache
+D:\StackNet Projects\dotnetpractice\Fiqri\TaskAPI\TaskAPI.DataAccess\obj\Debug\net8.0\ref\TaskAPI.DataAccess.dll

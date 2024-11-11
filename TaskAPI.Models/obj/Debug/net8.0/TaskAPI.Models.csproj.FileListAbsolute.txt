@@ -1,0 +1,11 @@
+D:\StackNet Projects\dotnetpractice\Fiqri\TaskAPI\TaskAPI.Models\bin\Debug\net8.0\TaskAPI.Models.deps.json
+D:\StackNet Projects\dotnetpractice\Fiqri\TaskAPI\TaskAPI.Models\bin\Debug\net8.0\TaskAPI.Models.dll
+D:\StackNet Projects\dotnetpractice\Fiqri\TaskAPI\TaskAPI.Models\bin\Debug\net8.0\TaskAPI.Models.pdb
+D:\StackNet Projects\dotnetpractice\Fiqri\TaskAPI\TaskAPI.Models\obj\Debug\net8.0\TaskAPI.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\StackNet Projects\dotnetpractice\Fiqri\TaskAPI\TaskAPI.Models\obj\Debug\net8.0\TaskAPI.Models.AssemblyInfoInputs.cache
+D:\StackNet Projects\dotnetpractice\Fiqri\TaskAPI\TaskAPI.Models\obj\Debug\net8.0\TaskAPI.Models.AssemblyInfo.cs
+D:\StackNet Projects\dotnetpractice\Fiqri\TaskAPI\TaskAPI.Models\obj\Debug\net8.0\TaskAPI.Models.csproj.CoreCompileInputs.cache
+D:\StackNet Projects\dotnetpractice\Fiqri\TaskAPI\TaskAPI.Models\obj\Debug\net8.0\TaskAPI.Models.dll
+D:\StackNet Projects\dotnetpractice\Fiqri\TaskAPI\TaskAPI.Models\obj\Debug\net8.0\refint\TaskAPI.Models.dll
+D:\StackNet Projects\dotnetpractice\Fiqri\TaskAPI\TaskAPI.Models\obj\Debug\net8.0\TaskAPI.Models.pdb
+D:\StackNet Projects\dotnetpractice\Fiqri\TaskAPI\TaskAPI.Models\obj\Debug\net8.0\ref\TaskAPI.Models.dll

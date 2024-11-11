@@ -1,0 +1,17 @@
+D:\StackNet Projects\dotnetpractice\Fiqri\TaskAPI\TaskAPI.Services\bin\Debug\net8.0\TaskAPI.Services.deps.json
+D:\StackNet Projects\dotnetpractice\Fiqri\TaskAPI\TaskAPI.Services\bin\Debug\net8.0\TaskAPI.Services.dll
+D:\StackNet Projects\dotnetpractice\Fiqri\TaskAPI\TaskAPI.Services\bin\Debug\net8.0\TaskAPI.Services.pdb
+D:\StackNet Projects\dotnetpractice\Fiqri\TaskAPI\TaskAPI.Services\bin\Debug\net8.0\TaskAPI.Models.dll
+D:\StackNet Projects\dotnetpractice\Fiqri\TaskAPI\TaskAPI.Services\bin\Debug\net8.0\TaskAPI.Models.pdb
+D:\StackNet Projects\dotnetpractice\Fiqri\TaskAPI\TaskAPI.Services\obj\Debug\net8.0\TaskAPI.Services.csproj.AssemblyReference.cache
+D:\StackNet Projects\dotnetpractice\Fiqri\TaskAPI\TaskAPI.Services\obj\Debug\net8.0\TaskAPI.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\StackNet Projects\dotnetpractice\Fiqri\TaskAPI\TaskAPI.Services\obj\Debug\net8.0\TaskAPI.Services.AssemblyInfoInputs.cache
+D:\StackNet Projects\dotnetpractice\Fiqri\TaskAPI\TaskAPI.Services\obj\Debug\net8.0\TaskAPI.Services.AssemblyInfo.cs
+D:\StackNet Projects\dotnetpractice\Fiqri\TaskAPI\TaskAPI.Services\obj\Debug\net8.0\TaskAPI.Services.csproj.CoreCompileInputs.cache
+D:\StackNet Projects\dotnetpractice\Fiqri\TaskAPI\TaskAPI.Services\obj\Debug\net8.0\TaskAPI..D5A6E998.Up2Date
+D:\StackNet Projects\dotnetpractice\Fiqri\TaskAPI\TaskAPI.Services\obj\Debug\net8.0\TaskAPI.Services.dll
+D:\StackNet Projects\dotnetpractice\Fiqri\TaskAPI\TaskAPI.Services\obj\Debug\net8.0\refint\TaskAPI.Services.dll
+D:\StackNet Projects\dotnetpractice\Fiqri\TaskAPI\TaskAPI.Services\obj\Debug\net8.0\TaskAPI.Services.pdb
+D:\StackNet Projects\dotnetpractice\Fiqri\TaskAPI\TaskAPI.Services\obj\Debug\net8.0\ref\TaskAPI.Services.dll
+D:\StackNet Projects\dotnetpractice\Fiqri\TaskAPI\TaskAPI.Services\bin\Debug\net8.0\TaskAPI.DataAccess.dll
+D:\StackNet Projects\dotnetpractice\Fiqri\TaskAPI\TaskAPI.Services\bin\Debug\net8.0\TaskAPI.DataAccess.pdb

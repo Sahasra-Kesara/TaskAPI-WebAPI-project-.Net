@@ -1,0 +1,313 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\StackNet Projects\\dotnetpractice\\Fiqri\\TaskAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CED07E81-B313-49CC-B397-418FED1A7420}|TaskAPI\\TaskAPI.csproj|d:\\stacknet projects\\dotnetpractice\\fiqri\\taskapi\\taskapi\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CED07E81-B313-49CC-B397-418FED1A7420}|TaskAPI\\TaskAPI.csproj|solutionrelative:taskapi\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03236298-47E9-4AC8-9618-2400F3135564}|TaskAPI.Services\\TaskAPI.Services.csproj|d:\\stacknet projects\\dotnetpractice\\fiqri\\taskapi\\taskapi.services\\authors\\iauthorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03236298-47E9-4AC8-9618-2400F3135564}|TaskAPI.Services\\TaskAPI.Services.csproj|solutionrelative:taskapi.services\\authors\\iauthorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03236298-47E9-4AC8-9618-2400F3135564}|TaskAPI.Services\\TaskAPI.Services.csproj|d:\\stacknet projects\\dotnetpractice\\fiqri\\taskapi\\taskapi.services\\authors\\authorsqlserverservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03236298-47E9-4AC8-9618-2400F3135564}|TaskAPI.Services\\TaskAPI.Services.csproj|solutionrelative:taskapi.services\\authors\\authorsqlserverservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB1765D4-8DDD-433A-9888-177EAB9FEC76}|TaskAPI.DataAccess\\TaskAPI.DataAccess.csproj|d:\\stacknet projects\\dotnetpractice\\fiqri\\taskapi\\taskapi.dataaccess\\tododbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB1765D4-8DDD-433A-9888-177EAB9FEC76}|TaskAPI.DataAccess\\TaskAPI.DataAccess.csproj|solutionrelative:taskapi.dataaccess\\tododbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03236298-47E9-4AC8-9618-2400F3135564}|TaskAPI.Services\\TaskAPI.Services.csproj|d:\\stacknet projects\\dotnetpractice\\fiqri\\taskapi\\taskapi.services\\models\\authordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03236298-47E9-4AC8-9618-2400F3135564}|TaskAPI.Services\\TaskAPI.Services.csproj|solutionrelative:taskapi.services\\models\\authordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32926BEA-2C03-42CA-BAA4-05F87FF9F876}|TaskAPI.Models\\TaskAPI.Models.csproj|d:\\stacknet projects\\dotnetpractice\\fiqri\\taskapi\\taskapi.models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32926BEA-2C03-42CA-BAA4-05F87FF9F876}|TaskAPI.Models\\TaskAPI.Models.csproj|solutionrelative:taskapi.models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32926BEA-2C03-42CA-BAA4-05F87FF9F876}|TaskAPI.Models\\TaskAPI.Models.csproj|d:\\stacknet projects\\dotnetpractice\\fiqri\\taskapi\\taskapi.models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32926BEA-2C03-42CA-BAA4-05F87FF9F876}|TaskAPI.Models\\TaskAPI.Models.csproj|solutionrelative:taskapi.models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CED07E81-B313-49CC-B397-418FED1A7420}|TaskAPI\\TaskAPI.csproj|d:\\stacknet projects\\dotnetpractice\\fiqri\\taskapi\\taskapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CED07E81-B313-49CC-B397-418FED1A7420}|TaskAPI\\TaskAPI.csproj|solutionrelative:taskapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CED07E81-B313-49CC-B397-418FED1A7420}|TaskAPI\\TaskAPI.csproj|d:\\stacknet projects\\dotnetpractice\\fiqri\\taskapi\\taskapi\\controllers\\todoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CED07E81-B313-49CC-B397-418FED1A7420}|TaskAPI\\TaskAPI.csproj|solutionrelative:taskapi\\controllers\\todoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32926BEA-2C03-42CA-BAA4-05F87FF9F876}|TaskAPI.Models\\TaskAPI.Models.csproj|d:\\stacknet projects\\dotnetpractice\\fiqri\\taskapi\\taskapi.models\\todostatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32926BEA-2C03-42CA-BAA4-05F87FF9F876}|TaskAPI.Models\\TaskAPI.Models.csproj|solutionrelative:taskapi.models\\todostatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03236298-47E9-4AC8-9618-2400F3135564}|TaskAPI.Services\\TaskAPI.Services.csproj|d:\\stacknet projects\\dotnetpractice\\fiqri\\taskapi\\taskapi.services\\todos\\todosqlserverservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03236298-47E9-4AC8-9618-2400F3135564}|TaskAPI.Services\\TaskAPI.Services.csproj|solutionrelative:taskapi.services\\todos\\todosqlserverservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03236298-47E9-4AC8-9618-2400F3135564}|TaskAPI.Services\\TaskAPI.Services.csproj|d:\\stacknet projects\\dotnetpractice\\fiqri\\taskapi\\taskapi.services\\todos\\todoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03236298-47E9-4AC8-9618-2400F3135564}|TaskAPI.Services\\TaskAPI.Services.csproj|solutionrelative:taskapi.services\\todos\\todoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03236298-47E9-4AC8-9618-2400F3135564}|TaskAPI.Services\\TaskAPI.Services.csproj|d:\\stacknet projects\\dotnetpractice\\fiqri\\taskapi\\taskapi.services\\todos\\itodorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03236298-47E9-4AC8-9618-2400F3135564}|TaskAPI.Services\\TaskAPI.Services.csproj|solutionrelative:taskapi.services\\todos\\itodorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03236298-47E9-4AC8-9618-2400F3135564}|TaskAPI.Services\\TaskAPI.Services.csproj|d:\\stacknet projects\\dotnetpractice\\fiqri\\taskapi\\taskapi.services\\profiles\\todoprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03236298-47E9-4AC8-9618-2400F3135564}|TaskAPI.Services\\TaskAPI.Services.csproj|solutionrelative:taskapi.services\\profiles\\todoprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03236298-47E9-4AC8-9618-2400F3135564}|TaskAPI.Services\\TaskAPI.Services.csproj|d:\\stacknet projects\\dotnetpractice\\fiqri\\taskapi\\taskapi.services\\models\\tododto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03236298-47E9-4AC8-9618-2400F3135564}|TaskAPI.Services\\TaskAPI.Services.csproj|solutionrelative:taskapi.services\\models\\tododto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03236298-47E9-4AC8-9618-2400F3135564}|TaskAPI.Services\\TaskAPI.Services.csproj|d:\\stacknet projects\\dotnetpractice\\fiqri\\taskapi\\taskapi.services\\profiles\\authorprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03236298-47E9-4AC8-9618-2400F3135564}|TaskAPI.Services\\TaskAPI.Services.csproj|solutionrelative:taskapi.services\\profiles\\authorprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB1765D4-8DDD-433A-9888-177EAB9FEC76}|TaskAPI.DataAccess\\TaskAPI.DataAccess.csproj|d:\\stacknet projects\\dotnetpractice\\fiqri\\taskapi\\taskapi.dataaccess\\migrations\\20241109171203_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB1765D4-8DDD-433A-9888-177EAB9FEC76}|TaskAPI.DataAccess\\TaskAPI.DataAccess.csproj|solutionrelative:taskapi.dataaccess\\migrations\\20241109171203_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IAuthorRepository.cs",
+              "DocumentMoniker": "D:\\StackNet Projects\\dotnetpractice\\Fiqri\\TaskAPI\\TaskAPI.Services\\Authors\\IAuthorRepository.cs",
+              "RelativeDocumentMoniker": "TaskAPI.Services\\Authors\\IAuthorRepository.cs",
+              "ToolTip": "D:\\StackNet Projects\\dotnetpractice\\Fiqri\\TaskAPI\\TaskAPI.Services\\Authors\\IAuthorRepository.cs",
+              "RelativeToolTip": "TaskAPI.Services\\Authors\\IAuthorRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T10:33:40.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthorsController.cs",
+              "DocumentMoniker": "D:\\StackNet Projects\\dotnetpractice\\Fiqri\\TaskAPI\\TaskAPI\\Controllers\\AuthorsController.cs",
+              "RelativeDocumentMoniker": "TaskAPI\\Controllers\\AuthorsController.cs",
+              "ToolTip": "D:\\StackNet Projects\\dotnetpractice\\Fiqri\\TaskAPI\\TaskAPI\\Controllers\\AuthorsController.cs",
+              "RelativeToolTip": "TaskAPI\\Controllers\\AuthorsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T09:51:22.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthorSqlServerService.cs",
+              "DocumentMoniker": "D:\\StackNet Projects\\dotnetpractice\\Fiqri\\TaskAPI\\TaskAPI.Services\\Authors\\AuthorSqlServerService.cs",
+              "RelativeDocumentMoniker": "TaskAPI.Services\\Authors\\AuthorSqlServerService.cs",
+              "ToolTip": "D:\\StackNet Projects\\dotnetpractice\\Fiqri\\TaskAPI\\TaskAPI.Services\\Authors\\AuthorSqlServerService.cs",
+              "RelativeToolTip": "TaskAPI.Services\\Authors\\AuthorSqlServerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T10:35:54.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TodoDbContext.cs",
+              "DocumentMoniker": "D:\\StackNet Projects\\dotnetpractice\\Fiqri\\TaskAPI\\TaskAPI.DataAccess\\TodoDbContext.cs",
+              "RelativeDocumentMoniker": "TaskAPI.DataAccess\\TodoDbContext.cs",
+              "ToolTip": "D:\\StackNet Projects\\dotnetpractice\\Fiqri\\TaskAPI\\TaskAPI.DataAccess\\TodoDbContext.cs",
+              "RelativeToolTip": "TaskAPI.DataAccess\\TodoDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T17:26:18.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthorDto.cs",
+              "DocumentMoniker": "D:\\StackNet Projects\\dotnetpractice\\Fiqri\\TaskAPI\\TaskAPI.Services\\Models\\AuthorDto.cs",
+              "RelativeDocumentMoniker": "TaskAPI.Services\\Models\\AuthorDto.cs",
+              "ToolTip": "D:\\StackNet Projects\\dotnetpractice\\Fiqri\\TaskAPI\\TaskAPI.Services\\Models\\AuthorDto.cs",
+              "RelativeToolTip": "TaskAPI.Services\\Models\\AuthorDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T11:29:33.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Author.cs",
+              "DocumentMoniker": "D:\\StackNet Projects\\dotnetpractice\\Fiqri\\TaskAPI\\TaskAPI.Models\\Author.cs",
+              "RelativeDocumentMoniker": "TaskAPI.Models\\Author.cs",
+              "ToolTip": "D:\\StackNet Projects\\dotnetpractice\\Fiqri\\TaskAPI\\TaskAPI.Models\\Author.cs",
+              "RelativeToolTip": "TaskAPI.Models\\Author.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T08:59:33.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Todo.cs",
+              "DocumentMoniker": "D:\\StackNet Projects\\dotnetpractice\\Fiqri\\TaskAPI\\TaskAPI.Models\\Todo.cs",
+              "RelativeDocumentMoniker": "TaskAPI.Models\\Todo.cs",
+              "ToolTip": "D:\\StackNet Projects\\dotnetpractice\\Fiqri\\TaskAPI\\TaskAPI.Models\\Todo.cs",
+              "RelativeToolTip": "TaskAPI.Models\\Todo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T14:34:20.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TodosController.cs",
+              "DocumentMoniker": "D:\\StackNet Projects\\dotnetpractice\\Fiqri\\TaskAPI\\TaskAPI\\Controllers\\TodosController.cs",
+              "RelativeDocumentMoniker": "TaskAPI\\Controllers\\TodosController.cs",
+              "ToolTip": "D:\\StackNet Projects\\dotnetpractice\\Fiqri\\TaskAPI\\TaskAPI\\Controllers\\TodosController.cs",
+              "RelativeToolTip": "TaskAPI\\Controllers\\TodosController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACEAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T09:52:19.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\StackNet Projects\\dotnetpractice\\Fiqri\\TaskAPI\\TaskAPI\\Program.cs",
+              "RelativeDocumentMoniker": "TaskAPI\\Program.cs",
+              "ToolTip": "D:\\StackNet Projects\\dotnetpractice\\Fiqri\\TaskAPI\\TaskAPI\\Program.cs",
+              "RelativeToolTip": "TaskAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAABpAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T04:54:45.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TodoStatus.cs",
+              "DocumentMoniker": "D:\\StackNet Projects\\dotnetpractice\\Fiqri\\TaskAPI\\TaskAPI.Models\\TodoStatus.cs",
+              "RelativeDocumentMoniker": "TaskAPI.Models\\TodoStatus.cs",
+              "ToolTip": "D:\\StackNet Projects\\dotnetpractice\\Fiqri\\TaskAPI\\TaskAPI.Models\\TodoStatus.cs",
+              "RelativeToolTip": "TaskAPI.Models\\TodoStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T04:32:35.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TodoSqlServerService.cs",
+              "DocumentMoniker": "D:\\StackNet Projects\\dotnetpractice\\Fiqri\\TaskAPI\\TaskAPI.Services\\Todos\\TodoSqlServerService.cs",
+              "RelativeDocumentMoniker": "TaskAPI.Services\\Todos\\TodoSqlServerService.cs",
+              "ToolTip": "D:\\StackNet Projects\\dotnetpractice\\Fiqri\\TaskAPI\\TaskAPI.Services\\Todos\\TodoSqlServerService.cs",
+              "RelativeToolTip": "TaskAPI.Services\\Todos\\TodoSqlServerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T04:49:31.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TodoService.cs",
+              "DocumentMoniker": "D:\\StackNet Projects\\dotnetpractice\\Fiqri\\TaskAPI\\TaskAPI.Services\\Todos\\TodoService.cs",
+              "RelativeDocumentMoniker": "TaskAPI.Services\\Todos\\TodoService.cs",
+              "ToolTip": "D:\\StackNet Projects\\dotnetpractice\\Fiqri\\TaskAPI\\TaskAPI.Services\\Todos\\TodoService.cs",
+              "RelativeToolTip": "TaskAPI.Services\\Todos\\TodoService.cs",
+              "ViewState": "AQIAAGoAAAAAAAAAAAAQwIgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T04:31:43.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ITodoRepository.cs",
+              "DocumentMoniker": "D:\\StackNet Projects\\dotnetpractice\\Fiqri\\TaskAPI\\TaskAPI.Services\\Todos\\ITodoRepository.cs",
+              "RelativeDocumentMoniker": "TaskAPI.Services\\Todos\\ITodoRepository.cs",
+              "ToolTip": "D:\\StackNet Projects\\dotnetpractice\\Fiqri\\TaskAPI\\TaskAPI.Services\\Todos\\ITodoRepository.cs",
+              "RelativeToolTip": "TaskAPI.Services\\Todos\\ITodoRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T04:47:50.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TodoProfile.cs",
+              "DocumentMoniker": "D:\\StackNet Projects\\dotnetpractice\\Fiqri\\TaskAPI\\TaskAPI.Services\\Profiles\\TodoProfile.cs",
+              "RelativeDocumentMoniker": "TaskAPI.Services\\Profiles\\TodoProfile.cs",
+              "ToolTip": "D:\\StackNet Projects\\dotnetpractice\\Fiqri\\TaskAPI\\TaskAPI.Services\\Profiles\\TodoProfile.cs",
+              "RelativeToolTip": "TaskAPI.Services\\Profiles\\TodoProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T12:29:09.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TodoDto.cs",
+              "DocumentMoniker": "D:\\StackNet Projects\\dotnetpractice\\Fiqri\\TaskAPI\\TaskAPI.Services\\Models\\TodoDto.cs",
+              "RelativeDocumentMoniker": "TaskAPI.Services\\Models\\TodoDto.cs",
+              "ToolTip": "D:\\StackNet Projects\\dotnetpractice\\Fiqri\\TaskAPI\\TaskAPI.Services\\Models\\TodoDto.cs",
+              "RelativeToolTip": "TaskAPI.Services\\Models\\TodoDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T12:30:39.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AuthorProfile.cs",
+              "DocumentMoniker": "D:\\StackNet Projects\\dotnetpractice\\Fiqri\\TaskAPI\\TaskAPI.Services\\Profiles\\AuthorProfile.cs",
+              "RelativeDocumentMoniker": "TaskAPI.Services\\Profiles\\AuthorProfile.cs",
+              "ToolTip": "D:\\StackNet Projects\\dotnetpractice\\Fiqri\\TaskAPI\\TaskAPI.Services\\Profiles\\AuthorProfile.cs",
+              "RelativeToolTip": "TaskAPI.Services\\Profiles\\AuthorProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T11:49:46.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20241109171203_Initial.cs",
+              "DocumentMoniker": "D:\\StackNet Projects\\dotnetpractice\\Fiqri\\TaskAPI\\TaskAPI.DataAccess\\Migrations\\20241109171203_Initial.cs",
+              "RelativeDocumentMoniker": "TaskAPI.DataAccess\\Migrations\\20241109171203_Initial.cs",
+              "ToolTip": "D:\\StackNet Projects\\dotnetpractice\\Fiqri\\TaskAPI\\TaskAPI.DataAccess\\Migrations\\20241109171203_Initial.cs",
+              "RelativeToolTip": "TaskAPI.DataAccess\\Migrations\\20241109171203_Initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T17:15:16.527Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
