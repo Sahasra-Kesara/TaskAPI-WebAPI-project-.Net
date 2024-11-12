@@ -17,20 +17,44 @@ namespace TaskAPI.Services.Authors
             return _context.Authors.ToList();
         }
 
-        public List<author> GetAuthors(string job)
+        public List<author> GetAllAuthors(string job, string search)
         {
-            if (string.IsNullOrWhiteSpace(job))
+            if (string.IsNullOrWhiteSpace(job) && string.IsNullOrWhiteSpace(search))
             {
                 return GetAllAuthors();
             }
-            job = job.Trim();
 
-            return _context.Authors.Where(a => a.JobRole == job).ToList();
+            ValueTask authorCollection = _context.Authors as IQueryable<author>;
+
+            if (!string.IsNullOrWhiteSpace(job))
+            {
+                job = job.Trim();
+                authorCollection = authorCollection.Where(a => a.JobRole == job);
+            }
+
+            if (!string.IsNullOrWhiteSpace(search))
+            {
+                search = search.Trim();
+                authorCollection = authorCollection.Where(a => 
+                    a.FullName.Contains(search) || a.city.Contains(search)
+                );
+            }
+            
+
+            return authorCollection.ToList();
         }
 
         public author GetAuthor(int id)
         {
             return _context.Authors.Find(id);
+        }
+
+        public author AddAuthor(author author)
+        {
+            _context.Authors.Add(author);
+            _context.SaveChanges();
+
+            return _context.Authors.Find(author.Id);
         }
     }
 }
